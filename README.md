@@ -27,3 +27,7 @@ ActionSense is an innovative project that combines the power of computer vision 
 - **Promote Interaction**: Create more interactive environments by connecting human actions to IoT devices.
 - **Demonstrate Innovation**: Showcase the integration of advanced computer vision with IoT technology in a practical, user-friendly application.
 
+ ## Contributors
+
+- Nagulapally Bhargavi - https://github.com/bhargavi852004
+
