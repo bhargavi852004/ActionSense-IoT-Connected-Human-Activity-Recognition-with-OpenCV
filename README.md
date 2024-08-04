@@ -1,0 +1,2 @@
+# ActionSense-IoT-Connected-Human-Activity-Recognition-with-OpenCV
+ActionSense is an innovative project that combines the power of computer vision with the connectivity of IoT to create a seamless human activity recognition system. Using OpenCV for accurate motion detection and pySerial for IoT integration, ActionSense transforms how environments respond to human actions, enhancing automation and interaction.
